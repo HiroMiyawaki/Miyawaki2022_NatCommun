@@ -1,2 +1,2 @@
-# miyawaki_2020
-scripts for Miyawaki & Mizuseki 2020
+# miyawaki2022_NatCommun
+scripts for Miyawaki, H., & Mizuseki, K., 2022 NatCommun
